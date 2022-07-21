@@ -1,7 +1,5 @@
 ## Mariadb  사용자 생성 & Database 생성
 
----
-
 ``` Maridb 가 설치되어있다는 가정 하에 세팅. ```
 
 1. 환경변수 path
