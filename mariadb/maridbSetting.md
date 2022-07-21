@@ -1,4 +1,4 @@
--u## Mariadb  사용자 생성 & Database 생성
+## Mariadb  사용자 생성 & Database 생성
 
 ---
 
@@ -51,6 +51,7 @@ cmd > create database db_name;
 cmd > use db_name;
 ``` 
 <br>
+
 ---
 
 ### 오류
