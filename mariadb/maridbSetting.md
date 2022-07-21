@@ -76,5 +76,3 @@ cmd > mysql -u root -p
 
 cmd > ALTER USER 'user-name'@'%' IDENTIFIED BY 'NEW_USER_PASSWORD';
 ``` 
-
-![겨울 이미지](../../../Desktop/%EA%B2%A8%EC%9A%B8%ED%94%84%EB%A1%9C%ED%95%84.jpg)
