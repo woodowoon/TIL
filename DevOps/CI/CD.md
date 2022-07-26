@@ -17,3 +17,7 @@ CI / CD 에 대해서 이해해보려고 한다.
 - ```지속적인 서비스 제공(Continuous Delivery)``` 및/또는 ```지속적인 배포(Continuous Deployment)```를 의미
 - 지속적인 제공이란 개발자들이 애플리케이션에 적용한 변경 사항이 버그 테스트를 거쳐 리포지토리에 자동으로 업로드되는 것
 - 지속적인 배포(또 다른 의미의 "CD": Continuous Deployment)란 개발자의 변경 사항을 리포지토리에서 고객이 사용 가능한 프로덕션 환경까지 자동으로 릴리스하는 것을 의미
+
+<br>
+
+![image](https://user-images.githubusercontent.com/67787525/181028279-1b9ed28c-f287-4b1d-ad28-6b29736a241a.png)
