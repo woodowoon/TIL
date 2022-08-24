@@ -7,6 +7,7 @@
 - 입출력장치
 
 ![하드웨어](./image/../../image/hardware.png)
+
 이미지 출처 : edwith Cs50 하드웨어
 
 ## 하드웨어란 ?
