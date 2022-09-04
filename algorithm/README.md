@@ -1,9 +1,8 @@
 ## 👏 나는 알고리즘이 너무 부족하다.
 알고리즘 언어는 기본적으로 Python 으로 풀고 남는 시간을 활용해서 JAVA로 추가로 풀기! 
-![solved](/image/solved.JPG)
-
-**2022.09.04** 브론즈1 달성
-![profile](/image/profile.JPG)
+<br><br><br>
+**2022.09.04** 브론즈1 달성<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woowoon920)](https://solved.ac/woowoon920/)
 
 ## 🤙 목표 
 - ✔️ 9월 30일 까지 브론즈3 달성
