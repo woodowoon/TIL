@@ -3,7 +3,7 @@
 <br><br><br>
 **2022.09.04** 브론즈1 달성<br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woowoon920)](https://solved.ac/woowoon920) <br>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woowoon920)](https://solved.ac/woowoon920)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=woowoon920&theme=cold)
 
 ## 🤙 목표 
