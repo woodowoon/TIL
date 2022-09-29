@@ -8,10 +8,8 @@ count = 0
 for i in range(n):
     if(k[i] == 1) :
         score += 1
-        
     else :
         score = 0
-    
     count += score
 
 print(count)
