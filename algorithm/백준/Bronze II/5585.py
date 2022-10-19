@@ -12,7 +12,7 @@ for i in money_list:
     if re == 0:
         break;
     
-    result += re // i
+    result += re // i # result = result + (re // i)
     re %= i
 
 print(result)
